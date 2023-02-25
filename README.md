@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasiru Chamuditha</h1>
 <h3 align="center">I am Student and Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasiruchamuditha&label=Profile%20views&color=0e75b6&style=flat" alt="yasiruchamuditha" /> </p>
-
-
 - 🔭 I’m currently studying at the School of Computing at the National Institute Of Business Management.
 
 - 📫 How to reach me **yasiruchamudithawijesinghe@gmail.com**
