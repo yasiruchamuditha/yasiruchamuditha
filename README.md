@@ -1,6 +1,7 @@
+<div style>
 <h1 align="center">Hi 👋, I'm Yasiru Chamuditha</h1>
 <h3 align="center">I am Student and Developer</h3>
-<img  alt="Coding" width="1000px" height="600px" src="R.gif">
+<img alt="Coding" width="1000px" height="500px" src="R.gif">
 
 - 🔭 I’m currently studying at the School of Computing at the National Institute Of Business Management.
 
