@@ -16,8 +16,8 @@
 <a href="https://www.behance.net/yasiruchamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yasiruchamuditha" height="30" width="40" /></a>
 </p>
 <hr>
-<div>
+<!--<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiruchamuditha&show_icons=true&locale=en&layout=compact" alt="yasiruchamuditha" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasiruchamuditha&show_icons=true&locale=en" alt="yasiruchamuditha" /></p>
 
-</div>
+</div>-->
