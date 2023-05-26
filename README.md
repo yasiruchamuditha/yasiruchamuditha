@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasiru Chamuditha</h1>
-<h3 align="center">I am Student and Developer</h3>
+<h3 align="center">I am Undergraduate</h3>
 <div>
 <img align="center" alt="Coding" width="1000px" height="500px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
 </div>
