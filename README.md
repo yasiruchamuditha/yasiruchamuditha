@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasiru Chamuditha</h1>
 <h3 align="center">I am Undergraduate</h3>
 <div>
-<img align="center" alt="Coding" width="1000px" height="500px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
+<img align="center" alt="Coding" width="500px" height="250px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
 </div>
 
 - 🔭 I’m currently studying at the School of Computing at the National Institute Of Business Management.
