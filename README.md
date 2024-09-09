@@ -1,7 +1,5 @@
-# Hi 👋, I'm Yasiru Chamuditha
-### Undergraduate / Fullstack Developer
-
-
+<h1 align="center">Hi 👋, I'm Yasiru Chamuditha</h1>
+<h3 align="center">Undergraduate / Fullstack Developer</h3>
 <div align="center">
   <img align="center" alt="Coding" width="500px" height="250px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
 </div>
