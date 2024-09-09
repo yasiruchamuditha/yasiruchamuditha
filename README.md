@@ -1,22 +1,32 @@
-<h1 align="center">Hi 👋, I'm Yasiru Chamuditha</h1>
-<h3 align="center">I am Undergraduate</h3>
+# Hi 👋, I'm Yasiru Chamuditha
+### Undergraduate / Fullstack Developer
+
+
 <div align="center">
-<img align="center" alt="Coding" width="500px" height="250px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
+  <img align="center" alt="Coding" width="500px" height="250px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
 </div>
 
-- 🔭 I’m currently studying at the School of Computing at the National Institute Of Business Management.
+## 💫 About Me:
+🔭  I’m studying at the School of Computing at the National Institute Of Business Management.<br><br>📫 How to reach me **yasiruchamudithawijesinghe@gmail.com**<br><br>💬 Ask me about software development, and Data Science.<br><br>🌱 Feel free to connect with me on my social media platforms or reach out for collaboration and discussions. Let's create amazing things together!<be>
 
-- 📫 How to reach me **yasiruchamudithawijesinghe@gmail.com**
-- Feel free to connect with me on my social media platforms or reach out for collaboration and discussions. Let's create amazing things together!
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@yasiru_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yasiru_99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yasiru-chamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasiru-chamuditha" height="30" width="40" /></a>
-<a href="https://instagram.com/yasiru_chamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasiru_chamuditha" height="30" width="40" /></a>
-<a href="https://www.behance.net/yasiruchamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yasiruchamuditha" height="30" width="40" /></a>
-</p>
-<hr>
-<!--<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiruchamuditha&show_icons=true&locale=en&layout=compact" alt="yasiruchamuditha" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasiruchamuditha&show_icons=true&locale=en" alt="yasiruchamuditha" /></p>
-</div>-->
+
+## 🌐 Connect Me Through:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yasiruchamuditha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasiru_chamuditha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasiru-chamuditha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@yasiruchamuditha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yasiru_99) 
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yasiruchamuditha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yasiruchamuditha&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasiruchamuditha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=yasiruchamuditha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yasiruchamuditha                ) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
