@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 💼 I'm 🎓 CS Undergraduate, 💻 Software Engineer, and 🌱 Content Creator.<br><br>
-🔭  I’m studying at the School of Computing at the National Institute Of Business Management.<br><br>📫 How to reach me **yasiruchamudithawijesinghe@gmail.com**<br><br>💬 Ask me about software development, and Data Science.<br><br>🌱 Feel free to connect with me on my social media platforms or reach out for collaboration and discussions. Let's create amazing things together!<be>
+🔭  I’m studying at the School of Computing at the National Institute Of Business Management, Sri Lanka, affiliated with Coventry University, UK<br><br>📫 How to reach me **yasiruchamudithawijesinghe@gmail.com**<br><br>💬 Ask me about software development and Data Science.<br><br>🌱 Feel free to connect with me on my social media platforms or reach out for collaboration and discussions. Let's create amazing things together!<be>
 
 
 ## 🌐 Connect Me Through:
