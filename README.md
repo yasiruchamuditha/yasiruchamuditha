@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yasiru Chamuditha</h1>
-<h3 align="center">Undergraduate / Fullstack Developer</h3>
-<div align="center">
+<!-- <h3 align="center">Undergraduate / Fullstack Developer</h3> -->
+<!-- <div align="center">
   <img align="center" alt="Coding" width="500px" height="250px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
-</div>
+</div> -->
 
 ## 💫 About Me:
+💼 I'm 🎓 CS Undergraduate, 💻 Software Engineer, and 🌱 Content Creator.<br><br>
 🔭  I’m studying at the School of Computing at the National Institute Of Business Management.<br><br>📫 How to reach me **yasiruchamudithawijesinghe@gmail.com**<br><br>💬 Ask me about software development, and Data Science.<br><br>🌱 Feel free to connect with me on my social media platforms or reach out for collaboration and discussions. Let's create amazing things together!<be>
 
 
@@ -15,6 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasiru-chamuditha) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@yasiruchamuditha) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yasiru_99)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20196573/yasiru-chamuditha)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/yasiruchamuditha)
 
 
 ## 💻 Tech Stack:
@@ -23,14 +26,19 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yasiruchamuditha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasiruchamuditha&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasiruchamuditha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasiruchamuditha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+[![](https://visitcount.itsvg.in/api?id=yasiruchamuditha&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 Career Goals
 
+I'm currently pursuing the following career path:
+
+💻 **Software Engineer**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yasiruchamuditha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yasiruchamuditha                ) 
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yasiruchamuditha                ) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
